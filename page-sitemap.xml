@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on April 7, 2025 at 9:14 am by All in One SEO v4.8.1.1 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on April 7, 2025 at 9:24 am by All in One SEO v4.8.1.1 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=page"?>
 <urlset
@@ -161,18 +161,6 @@
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[http://3.145.173.64/wp-content/uploads/2019/11/0162-1024x683-e1574458652217.jpg]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[/our-services/skin/]]></loc>
-		<lastmod><![CDATA[2020-03-27T20:08:49+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2019/12/Health-is-Beauty.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[http://3.145.173.64/wp-content/uploads/2019/12/Health-is-Beauty.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
