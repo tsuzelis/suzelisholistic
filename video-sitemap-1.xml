@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--generator='jetpack-14.5'-->
+<!--Jetpack_Sitemap_Buffer_Video-->
+<?xml-stylesheet type="text/xsl" href="/video-sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>/website-introduction/</loc>
+    <lastmod>2018-07-05T11:35:43Z</lastmod>
+    <video:video>
+      <video:title>Website Introduction</video:title>
+      <video:thumbnail_loc>https://s0.wp.com/i/blank.jpg</video:thumbnail_loc>
+      <video:description></video:description>
+      <video:content_loc>/wp-content/uploads/2018/07/Website-Introduction.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>/welcome_video/</loc>
+    <lastmod>2020-06-25T14:36:40Z</lastmod>
+    <video:video>
+      <video:title>Suzelis Holistic Health Intro Video</video:title>
+      <video:thumbnail_loc>https://s0.wp.com/i/blank.jpg</video:thumbnail_loc>
+      <video:description></video:description>
+      <video:content_loc>/wp-content/uploads/2020/06/Suzelis-Holistic-Health-Intro-Video.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>/tim-iliff-lac-joins-suzelis-holistic-health/</loc>
+    <lastmod>2020-07-13T15:08:31Z</lastmod>
+    <video:video>
+      <video:title>Tim Iliff, LAc Joins Suzelis Holistic Health</video:title>
+      <video:thumbnail_loc>https://s0.wp.com/i/blank.jpg</video:thumbnail_loc>
+      <video:description></video:description>
+      <video:content_loc>/wp-content/uploads/2020/07/Tim-Iliff-LAc-Joins-Suzelis-Holistic-Health.mp4</video:content_loc>
+    </video:video>
+  </url>
+</urlset>

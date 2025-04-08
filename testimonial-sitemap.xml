@@ -1,100 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on April 8, 2025 at 6:50 pm by All in One SEO v4.8.1.1 - the original SEO plugin for WordPress. -->
-
-<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=testimonial"?>
-<urlset
-	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-	xmlns:xhtml="http://www.w3.org/1999/xhtml"
-	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
->
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc><![CDATA[/testimonial/i-started-seeing-ashley-suzelis-about-2-years-ago-for-adult-acne/]]></loc>
-		<lastmod><![CDATA[2019-12-15T14:47:07+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/testimonial/my-son-is-medication-free-enjoying-life-like-a-16-year-old-should-thanks-to-dr-ted-suzelis/</loc>
+		<lastmod>2018-07-04T15:27:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/testimonial/ive-been-with-the-practice-7-years-i-had-thyroid-issues-digestive-issues-and-terrible-anxiety/]]></loc>
-		<lastmod><![CDATA[2018-07-04T15:30:36+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/testimonial/imagine-feeling-better-after-only-1-month-of-dr-teds-advice/</loc>
+		<lastmod>2018-07-04T15:28:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/testimonial/i-was-having-trouble-losing-weight/]]></loc>
-		<lastmod><![CDATA[2018-07-04T15:30:26+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/testimonial/dr-ted-suzelis-has-changed-my-life/</loc>
+		<lastmod>2018-07-04T15:28:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/testimonial/its-such-a-rare-experience-to-have-a-doctor-not-shoving-medication-at-you/]]></loc>
-		<lastmod><![CDATA[2018-07-04T15:30:17+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/testimonial/i-am-absolutely-thrilled/</loc>
+		<lastmod>2018-07-04T15:28:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/testimonial/love-dr-ted/]]></loc>
-		<lastmod><![CDATA[2018-07-04T15:30:08+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/testimonial/he-is-so-nice-and-makes-me-feel-so-at-ease/</loc>
+		<lastmod>2018-07-04T15:28:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/testimonial/when-i-found-dr-ted-i-was-at-the-point-where-she-just-could-not-live-like-i-was-anymore/]]></loc>
-		<lastmod><![CDATA[2018-07-04T15:29:59+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/testimonial/my-life-has-totally-changed/</loc>
+		<lastmod>2018-07-04T15:29:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/testimonial/i-was-suffering-with-hormone-related-issues/]]></loc>
-		<lastmod><![CDATA[2018-07-04T15:29:41+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/testimonial/i-was-so-sick-that-by-the-time-i-got-to-dr-ted-i-could-barely-function/</loc>
+		<lastmod>2018-07-04T15:29:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/testimonial/i-had-terrible-thyroid-issues-and-the-drugs-led-to-horrible-highs-and-lows/]]></loc>
-		<lastmod><![CDATA[2018-07-04T15:29:28+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/testimonial/i-had-terrible-thyroid-issues-and-the-drugs-led-to-horrible-highs-and-lows/</loc>
+		<lastmod>2018-07-04T15:29:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/testimonial/i-was-so-sick-that-by-the-time-i-got-to-dr-ted-i-could-barely-function/]]></loc>
-		<lastmod><![CDATA[2018-07-04T15:29:20+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/testimonial/i-was-suffering-with-hormone-related-issues/</loc>
+		<lastmod>2018-07-04T15:29:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/testimonial/my-life-has-totally-changed/]]></loc>
-		<lastmod><![CDATA[2018-07-04T15:29:02+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/testimonial/when-i-found-dr-ted-i-was-at-the-point-where-she-just-could-not-live-like-i-was-anymore/</loc>
+		<lastmod>2018-07-04T15:29:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/testimonial/he-is-so-nice-and-makes-me-feel-so-at-ease/]]></loc>
-		<lastmod><![CDATA[2018-07-04T15:28:49+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/testimonial/love-dr-ted/</loc>
+		<lastmod>2018-07-04T15:30:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/testimonial/i-am-absolutely-thrilled/]]></loc>
-		<lastmod><![CDATA[2018-07-04T15:28:42+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/testimonial/its-such-a-rare-experience-to-have-a-doctor-not-shoving-medication-at-you/</loc>
+		<lastmod>2018-07-04T15:30:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/testimonial/dr-ted-suzelis-has-changed-my-life/]]></loc>
-		<lastmod><![CDATA[2018-07-04T15:28:35+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/testimonial/i-was-having-trouble-losing-weight/</loc>
+		<lastmod>2018-07-04T15:30:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/testimonial/imagine-feeling-better-after-only-1-month-of-dr-teds-advice/]]></loc>
-		<lastmod><![CDATA[2018-07-04T15:28:28+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/testimonial/ive-been-with-the-practice-7-years-i-had-thyroid-issues-digestive-issues-and-terrible-anxiety/</loc>
+		<lastmod>2018-07-04T15:30:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/testimonial/my-son-is-medication-free-enjoying-life-like-a-16-year-old-should-thanks-to-dr-ted-suzelis/]]></loc>
-		<lastmod><![CDATA[2018-07-04T15:27:40+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/testimonial/i-started-seeing-ashley-suzelis-about-2-years-ago-for-adult-acne/</loc>
+		<lastmod>2019-12-15T14:47:07+00:00</lastmod>
 	</url>
 </urlset>
+<!-- XML Sitemap generated by Yoast SEO -->

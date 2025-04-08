@@ -1,379 +1,267 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on April 8, 2025 at 6:50 pm by All in One SEO v4.8.1.1 - the original SEO plugin for WordPress. -->
-
-<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=page"?>
-<urlset
-	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-	xmlns:xhtml="http://www.w3.org/1999/xhtml"
-	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
->
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc><![CDATA[/new-patients/your-first-visit-with-dr-ted/]]></loc>
-		<lastmod><![CDATA[2025-04-07T13:14:00+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/</loc>
+	</url>
+	<url>
+		<loc>/sample-page/</loc>
+		<lastmod>2018-05-23T10:58:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/placeholder/</loc>
+		<lastmod>2018-07-04T12:54:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/learning-experiences/</loc>
+		<lastmod>2018-07-04T13:09:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/our-services/</loc>
+		<lastmod>2018-07-04T13:22:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/videos/</loc>
+		<lastmod>2018-07-04T13:38:07+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/videos/dr-ted-discussing-what-is-naturopathic-medicine/</loc>
+		<lastmod>2018-07-04T13:39:15+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2019/12/naturopathic_medicine.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[http://3.145.173.64/wp-content/uploads/2019/12/naturopathic_medicine.jpg]]></image:loc>
+			<image:loc>/wp-content/uploads/2018/07/ted_video-min.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/about-our-doctors/about-new-hope/]]></loc>
-		<lastmod><![CDATA[2025-01-17T17:58:04+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/videos/dr-ted-interviewed-on-good-medicine-with-mary-sheehan-part-1-7-21-2010/</loc>
+		<lastmod>2018-07-04T13:46:45+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2019/10/jeanne.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[http://3.145.173.64/wp-content/uploads/2019/10/jeanne.jpg]]></image:loc>
+			<image:loc>/wp-content/uploads/2018/07/mary_part_1-min.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/about-our-doctors/about-dr-oconnell/]]></loc>
-		<lastmod><![CDATA[2024-03-18T14:23:09+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/videos/dr-ted-interviewed-on-good-medicine-with-mary-sheehan-part-2-7-21-2010/</loc>
+		<lastmod>2018-07-04T13:47:31+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2023/10/rachael-professional-picture-portrait.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[http://3.145.173.64/wp-content/uploads/2023/10/rachael-professional-picture-portrait.jpg]]></image:loc>
+			<image:loc>/wp-content/uploads/2018/07/mary_part_2-min.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/new-patients/new-patient-forms/]]></loc>
-		<lastmod><![CDATA[2024-03-18T14:21:36+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/videos/dr-ted-discussing-naturopathic-medicine-on-wfmj-midday-ii-1-20-2016/</loc>
+		<lastmod>2018-07-04T13:49:45+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2019/12/Debbie_looking_up.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[http://3.145.173.64/wp-content/uploads/2019/12/Debbie_looking_up.jpg]]></image:loc>
+			<image:loc>/wp-content/uploads/2018/07/NM_Midday_2-min.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/appointments/]]></loc>
-		<lastmod><![CDATA[2023-10-17T18:58:15+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/about-forest-of-youth/]]></loc>
-		<lastmod><![CDATA[2023-10-17T12:44:18+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/videos/dr-ted-discussing-naturopathic-medicine-on-wfmj-midday-part-i-1-20-2016/</loc>
+		<lastmod>2018-07-04T13:50:29+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2019/10/ashley_portrait.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[http://3.145.173.64/wp-content/uploads/2019/10/ashley_portrait.jpg]]></image:loc>
+			<image:loc>/wp-content/uploads/2018/07/NM_Midday_1-min.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/new-patients/drted-vip-plan/]]></loc>
-		<lastmod><![CDATA[2023-08-30T12:07:09+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/videos/dr-ted-with-sleep-tips-on-wfmj-midday-2-21-2017/</loc>
+		<lastmod>2018-07-04T13:51:13+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2018/07/ted_excited-min.jpg]]></image:loc>
+			<image:loc>/wp-content/uploads/2018/07/sleep_WFMJ-min.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/videos/how-synthia-helps-people/]]></loc>
-		<lastmod><![CDATA[2020-08-28T13:26:09+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/learning-experiences/monthly-seminars/</loc>
+		<lastmod>2018-07-04T15:04:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/learning-experiences/acupuncture-happy-hour/</loc>
+		<lastmod>2018-07-04T15:08:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/new-patients/</loc>
+		<lastmod>2018-07-04T15:36:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/testimonial-submission/</loc>
+		<lastmod>2018-07-04T15:53:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/contact/directions/</loc>
+		<lastmod>2019-03-28T13:29:55+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/about-our-doctors/</loc>
+		<lastmod>2019-04-11T16:08:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/contact/</loc>
+		<lastmod>2019-10-02T17:34:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/hh/</loc>
+		<lastmod>2019-12-14T15:48:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/new-patients/testimonials/</loc>
+		<lastmod>2019-12-14T15:55:14+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2020/08/HowSynthiaHelps.png]]></image:loc>
+			<image:loc>/wp-content/uploads/2019/12/Suzelis-128new.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/welcome_video/]]></loc>
-		<lastmod><![CDATA[2020-06-25T14:36:47+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/videos/ashley-suzelis-wfmj-weekend-today-1-21-2017/</loc>
+		<lastmod>2019-12-15T15:03:02+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2018/07/welcome_video.jpg]]></image:loc>
+			<image:loc>/wp-content/uploads/2019/12/Ashley_WFMJ.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/videos/synthia-on-working-with-family/]]></loc>
-		<lastmod><![CDATA[2020-05-24T14:20:31+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/our-services/massotherapy/</loc>
+		<lastmod>2019-12-16T19:58:20+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/about-our-doctors/about-synthia/</loc>
+		<lastmod>2020-03-27T19:55:37+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2020/05/Synthia_family.png]]></image:loc>
+			<image:loc>/wp-content/uploads/2019/10/Synthia_portrait.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Synthia_portrait.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/videos/synthia-on-mind-body-and-spirit/]]></loc>
-		<lastmod><![CDATA[2020-05-24T14:20:17+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/about-our-doctors/about-dr-ted/</loc>
+		<lastmod>2020-03-27T19:55:54+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2020/05/MindBodySpirit.png]]></image:loc>
+			<image:loc>/wp-content/uploads/2019/10/ted-portriat.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/ted-portriat.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/videos/synthia-on-homeopathy-vs-herbology/]]></loc>
-		<lastmod><![CDATA[2020-05-24T14:20:05+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/about-our-doctors/about-walter/</loc>
+		<lastmod>2020-03-27T20:05:44+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2020/05/herbvshomeopathic.png]]></image:loc>
+			<image:loc>/wp-content/uploads/2019/04/Walts-Formal-Picture.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/04/Walts-Formal-Picture.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/our-services/reflexology/]]></loc>
-		<lastmod><![CDATA[2020-03-27T20:11:12+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/our-services/naturopathic-medicine/</loc>
+		<lastmod>2020-03-27T20:08:26+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2019/10/reflexology.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[http://3.145.173.64/wp-content/uploads/2019/10/reflexology.jpg]]></image:loc>
+			<image:loc>/wp-content/uploads/2019/12/naturopathic_medicine.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/our-services/homeopathy/]]></loc>
-		<lastmod><![CDATA[2020-03-27T20:10:46+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/our-services/eds/</loc>
+		<lastmod>2020-03-27T20:09:14+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2019/12/homeopathy.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[http://3.145.173.64/wp-content/uploads/2019/12/homeopathy.jpg]]></image:loc>
+			<image:loc>/wp-content/uploads/2019/11/0162-1024x683-e1574458652217.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/our-services/eds/]]></loc>
-		<lastmod><![CDATA[2020-03-27T20:09:14+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/our-services/homeopathy/</loc>
+		<lastmod>2020-03-27T20:10:46+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2019/11/0162-e1574458652217.jpg]]></image:loc>
+			<image:loc>/wp-content/uploads/2019/12/homeopathy.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[http://3.145.173.64/wp-content/uploads/2019/11/0162-1024x683-e1574458652217.jpg]]></image:loc>
+			<image:loc>/wp-content/uploads/2019/12/homeopathy.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/our-services/naturopathic-medicine/]]></loc>
-		<lastmod><![CDATA[2020-03-27T20:08:26+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/our-services/reflexology/</loc>
+		<lastmod>2020-03-27T20:11:12+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2019/12/naturopathic_medicine.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[http://3.145.173.64/wp-content/uploads/2019/12/naturopathic_medicine.jpg]]></image:loc>
+			<image:loc>/wp-content/uploads/2019/10/reflexology.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/about-our-doctors/about-walter/]]></loc>
-		<lastmod><![CDATA[2020-03-27T20:05:44+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/videos/synthia-on-homeopathy-vs-herbology/</loc>
+		<lastmod>2020-05-24T14:20:05+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2019/04/Walts-Formal-Picture.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[http://3.145.173.64/wp-content/uploads/2019/04/Walts-Formal-Picture.jpg]]></image:loc>
+			<image:loc>/wp-content/uploads/2020/05/herbvshomeopathic.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/about-our-doctors/about-dr-ted/]]></loc>
-		<lastmod><![CDATA[2020-03-27T19:55:54+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/videos/synthia-on-mind-body-and-spirit/</loc>
+		<lastmod>2020-05-24T14:20:17+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2019/10/ted-portriat.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[http://3.145.173.64/wp-content/uploads/2019/10/ted-portriat-200x300.jpg]]></image:loc>
+			<image:loc>/wp-content/uploads/2020/05/MindBodySpirit.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/about-our-doctors/about-synthia/]]></loc>
-		<lastmod><![CDATA[2020-03-27T19:55:37+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/videos/synthia-on-working-with-family/</loc>
+		<lastmod>2020-05-24T14:20:31+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2019/10/Synthia_portrait.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[http://3.145.173.64/wp-content/uploads/2019/10/Synthia_portrait-200x300.jpg]]></image:loc>
+			<image:loc>/wp-content/uploads/2020/05/Synthia_family.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/our-services/massotherapy/]]></loc>
-		<lastmod><![CDATA[2019-12-16T19:58:20+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/videos/ashley-suzelis-wfmj-weekend-today-1-21-2017/]]></loc>
-		<lastmod><![CDATA[2019-12-15T15:03:02+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/welcome_video/</loc>
+		<lastmod>2020-06-25T14:36:47+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2019/12/Ashley_WFMJ.jpg]]></image:loc>
+			<image:loc>/wp-content/uploads/2018/07/welcome_video.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/new-patients/testimonials/]]></loc>
-		<lastmod><![CDATA[2019-12-14T15:55:14+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/videos/how-synthia-helps-people/</loc>
+		<lastmod>2020-08-28T13:26:09+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2019/12/Suzelis-128new.jpg]]></image:loc>
+			<image:loc>/wp-content/uploads/2020/08/HowSynthiaHelps.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/hh/]]></loc>
-		<lastmod><![CDATA[2019-12-14T15:48:54+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/contact/]]></loc>
-		<lastmod><![CDATA[2019-10-02T17:34:44+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/new-patients/drted-vip-plan/</loc>
+		<lastmod>2023-08-30T12:07:09+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[http://18.222.20.222/wp-content/uploads/2019/10/front_desk.jpg]]></image:loc>
+			<image:loc>/wp-content/uploads/2018/07/ted_excited-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/about-our-doctors/]]></loc>
-		<lastmod><![CDATA[2019-04-11T16:08:56+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/contact/directions/]]></loc>
-		<lastmod><![CDATA[2019-03-28T13:29:55+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/about-forest-of-youth/</loc>
+		<lastmod>2023-10-17T12:44:18+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[http://18.222.20.222/wp-content/uploads/2019/03/SHH_Front_of_Building.png]]></image:loc>
+			<image:loc>/wp-content/uploads/2019/10/ashley_portrait.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/ashley_portrait.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/testimonial-submission/]]></loc>
-		<lastmod><![CDATA[2018-07-04T15:53:49+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/appointments/</loc>
+		<lastmod>2023-10-17T18:58:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/new-patients/]]></loc>
-		<lastmod><![CDATA[2018-07-04T15:36:28+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/learning-experiences/acupuncture-happy-hour/]]></loc>
-		<lastmod><![CDATA[2018-07-04T15:08:37+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/learning-experiences/monthly-seminars/]]></loc>
-		<lastmod><![CDATA[2018-07-04T15:04:26+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/videos/dr-ted-with-sleep-tips-on-wfmj-midday-2-21-2017/]]></loc>
-		<lastmod><![CDATA[2018-07-04T13:51:13+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/new-patients/new-patient-forms/</loc>
+		<lastmod>2024-03-18T14:21:36+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2018/07/sleep_WFMJ-min.png]]></image:loc>
+			<image:loc>/wp-content/uploads/2019/12/Debbie_looking_up.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/videos/dr-ted-discussing-naturopathic-medicine-on-wfmj-midday-part-i-1-20-2016/]]></loc>
-		<lastmod><![CDATA[2018-07-04T13:50:29+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/about-our-doctors/about-dr-oconnell/</loc>
+		<lastmod>2024-03-18T14:23:09+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2018/07/NM_Midday_1-min.png]]></image:loc>
+			<image:loc>/wp-content/uploads/2023/10/rachael-professional-picture-portrait.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/videos/dr-ted-discussing-naturopathic-medicine-on-wfmj-midday-ii-1-20-2016/]]></loc>
-		<lastmod><![CDATA[2018-07-04T13:49:45+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/about-our-doctors/about-new-hope/</loc>
+		<lastmod>2025-01-17T17:58:04+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2018/07/NM_Midday_2-min.png]]></image:loc>
+			<image:loc>/wp-content/uploads/2019/10/jeanne.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/jeanne.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/videos/dr-ted-interviewed-on-good-medicine-with-mary-sheehan-part-2-7-21-2010/]]></loc>
-		<lastmod><![CDATA[2018-07-04T13:47:31+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/new-patients/your-first-visit-with-dr-ted/</loc>
+		<lastmod>2025-04-07T13:14:00+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2018/07/mary_part_2-min.png]]></image:loc>
+			<image:loc>/wp-content/uploads/2019/12/naturopathic_medicine.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[/videos/dr-ted-interviewed-on-good-medicine-with-mary-sheehan-part-1-7-21-2010/]]></loc>
-		<lastmod><![CDATA[2018-07-04T13:46:45+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2018/07/mary_part_1-min.png]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[/videos/dr-ted-discussing-what-is-naturopathic-medicine/]]></loc>
-		<lastmod><![CDATA[2018-07-04T13:39:15+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2018/07/ted_video-min.png]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[/videos/]]></loc>
-		<lastmod><![CDATA[2018-07-04T13:38:07+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/our-services/]]></loc>
-		<lastmod><![CDATA[2018-07-04T13:22:47+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/learning-experiences/]]></loc>
-		<lastmod><![CDATA[2018-07-04T13:09:27+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[http://18.222.20.222/wp-content/uploads/2018/07/0122crop-1.jpg]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[/placeholder/]]></loc>
-		<lastmod><![CDATA[2018-07-04T12:54:36+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/sample-page/]]></loc>
-		<lastmod><![CDATA[2018-05-23T10:58:43+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
 	</url>
 </urlset>
+<!-- XML Sitemap generated by Yoast SEO -->
